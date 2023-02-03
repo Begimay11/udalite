@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <Expenses/>
+      <h3>Just do it</h3>
     </div>
   );
 }
